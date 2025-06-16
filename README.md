@@ -41,6 +41,7 @@ wordpress-ec2-deploy/
 
 ```
 🧪 How to Deploy It Yourself
+
 1️⃣ Clone the Repo.
 
 git clone git@github.com:Oluwapelumi10/wordpress-ec2-terraform-docker.git
