@@ -1,0 +1,10 @@
+# Ignore IntelliJ project files
+.idea/
+
+# Ignore Terraform generated files
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+
+# Ignore log files
+*.log
